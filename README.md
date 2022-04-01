@@ -1,2 +1,2 @@
 # android
-You can download project in pull.
+You can download project in branch.
