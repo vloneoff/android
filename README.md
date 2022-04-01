@@ -1,2 +1,2 @@
 # android
-just UI
+You can download project in pull.
