@@ -1,2 +1,2 @@
 # android
-You can download project in branch.
+You can download project in release.
